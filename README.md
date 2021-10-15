@@ -1,6 +1,6 @@
 # Paragraph Generator App
 
-## [see live](https://hakanolgun.com)
+## [see live](https://paragraph-generator-hakan.netlify.app/)
 
 <img width="100%" src="./src/paragraphGeneratorBg.png" alt="project image">
 
