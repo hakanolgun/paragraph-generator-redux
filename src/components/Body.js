@@ -19,5 +19,5 @@ export const Body = () => {
     fetchData();
   }, [number, include, dispatch]);
 
-  return <div>{paras}</div>;
+  return <div className="container">{paras}</div>;
 };
